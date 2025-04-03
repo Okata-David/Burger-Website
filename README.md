@@ -1,4 +1,3 @@
-Project Overview 
 Burger Delight is a responsive website for a burger restaurant, showcasing delicious burgers, combos, and deals. The website allows customers to browse the menu, place orders online, and find restaurant locations.  
 
 Features 
